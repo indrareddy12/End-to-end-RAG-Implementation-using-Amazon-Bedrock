@@ -2,4 +2,4 @@ langchain
 boto3
 pypdf
 streamlit
-faiss-cpu
+faiss-cpu 
