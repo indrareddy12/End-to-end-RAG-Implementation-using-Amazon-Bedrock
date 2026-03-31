@@ -10,7 +10,7 @@ import streamlit as st
 bedrock_client = boto3.client(
     service_name = "bedrock-runtime",
     region_name = "us-east-1",
-)
+)   
 
 model_id = "ai21.j2-mid-v1"
 
